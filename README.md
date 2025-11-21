@@ -14,8 +14,8 @@ There is a list of countries and their attributes in the application that are sh
 
 ## Dependencies
 
-HTML5
-TypeScript
+HTML5<br>
+TypeScript<br>
 JavaScript
 
 ## Installing
