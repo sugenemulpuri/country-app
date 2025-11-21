@@ -10,7 +10,7 @@ TypeScript is utilized to create an application that iterates a list of countrie
 
 ## Getting Started
 
-There is a list of countries and their attributes in the application that are shown on the front-end. The logic is set so the user can go into the TypeScript file and change types of data and the app will still run (such as if there are no snowy countries).
+There is a list of countries and their attributes in the application that are shown on the front-end. The logic is set so the user can go into the TypeScript file and change types of data and the app will still run (such as if they remove all snowy countries).
 
 ## Dependencies
 
